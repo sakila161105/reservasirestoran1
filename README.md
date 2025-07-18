@@ -76,7 +76,8 @@ Laporan akhir AAS dapat diunduh di sini:
 
 ## 🎥 Video Presentasi & Demonstrasi
 Link presentasi dan tutorial penggunaan aplikasi:
-[Link Youtube AAS Kel 5.txt](Link%20Youtube%20AAS%20Kel%205.txt)
+[Link vidio presentasi dan demontrasi](https://youtu.be/KJ2iPufUeM4?si=1o57Jr1a8oVXY0tG dan https://youtu.be/KJ2iPufUeM4?si=1o57Jr1a8oVXY0tG)
+
 
 ## 👨‍💻 Anggota Kelompok
 - Muhammad Rizky Febrian (3312401082)
