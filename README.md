@@ -70,8 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 Repositori ini berisi implementasi proyek PBL dengan Laravel untuk sistem Reservasi Restoran.
 
-## 📄 Laporan Akhir
-Laporan akhir AAS dapat diunduh di sini:
+## Laporan Akhir
 [LaporanAAS_Kel5_IF2C_Pagi.pdf](LaporanAAS_Kel5_IF2C_Pagi.pdf)
 
 ## 🎥 Video Presentasi & Demonstrasi
@@ -79,13 +78,13 @@ Link presentasi dan tutorial penggunaan aplikasi:
 [Link vidio presentasi dan demontrasi](https://youtu.be/KJ2iPufUeM4?si=1o57Jr1a8oVXY0tG dan https://youtu.be/KJ2iPufUeM4?si=1o57Jr1a8oVXY0tG)
 
 
-## 👨‍💻 Anggota Kelompok
+## Anggota Kelompok
 - Muhammad Rizky Febrian (3312401082)
 - Muhammad Naufal Hakim (3312401088)
 - Rafles Yuda Stevenses N. (3312401062)
 - Sakila Ananda Putri (3312411082)
 
-## 🚀 Teknologi
+## Teknologi
 - Laravel 10
 - MySQL
 - Blade & Tailwind CSS
