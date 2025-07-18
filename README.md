@@ -73,7 +73,7 @@ Repositori ini berisi implementasi proyek PBL dengan Laravel untuk sistem Reserv
 ## Laporan Akhir
 [LaporanAAS_Kel5_IF2C_Pagi.pdf](LaporanAAS_Kel5_IF2C_Pagi.pdf)
 
-## 🎥 Video Presentasi & Demonstrasi
+## Video Presentasi & Demonstrasi
 Link presentasi dan tutorial penggunaan aplikasi:
 [Link vidio presentasi dan demontrasi](https://youtu.be/KJ2iPufUeM4?si=1o57Jr1a8oVXY0tG dan https://youtu.be/KJ2iPufUeM4?si=1o57Jr1a8oVXY0tG)
 
